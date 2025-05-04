@@ -1,8 +1,6 @@
 ---
 title: HLS Load Testing 
-description: A simple guide to making a hls load test on your Ant Media Server.
-keywords: [Ant Media Load Testing, hls load test, Ant Media Server Documentation, Ant Media Server Tutorials]
-sidebar_position: 2
+description: A simple guide to making a hls load test.
 ---
 
 This document outlines the steps to perform a HLS load test on your Ant Media Server using the provided script with the help of ffmpeg.
